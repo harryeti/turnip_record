@@ -12,6 +12,7 @@
 
 另外，由于是伪随机数，理论上在前几次价格输入后，可以精确测出后面的值，这块还在研究。。。
 
+[我的大头菜价格记录记录](https://github.com/harryeti/turnip_record/blob/master/my_record.md)
 
 ## 大头菜价格源码整理：
 
